@@ -141,3 +141,8 @@ public void pet(){\
 ## Conclusion
 
 By following **SOLID** principles, we can keep our design issues to the minimum and make our code better in terms of readability, maintainability, design pattern and testability.
+
+## _REFERENCES_
+_[1] [https://www.baeldung.com/solid-principles](https://www.baeldung.com/solid-principles)_\
+_[2] [https://en.wikipedia.org/wiki/SOLID](https://en.wikipedia.org/wiki/SOLID)_\
+_[3] ["Design Principles and Design Patterns" by Robert C. Martin](http://staff.cs.utu.fi/~jounsmed/doos_06/material/DesignPrinciplesAndPatterns.pdf)_
